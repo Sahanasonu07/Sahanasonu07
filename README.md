@@ -6,7 +6,7 @@
 </p>
 
 ---
-### 🧑‍💻 About Me
+<h1 align="center"></h1> ### 🧑‍💻 About Me </h1>
 
 <details>
 <summary>Click to Expand</summary>
