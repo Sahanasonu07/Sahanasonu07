@@ -14,7 +14,7 @@
 - 🛠️ I enjoy automating deployments and simplifying release cycles. <br> 
 - 🤝 Open to collaboration on Java, Spring, DevOps, and ReactJS projects. <br>  
 </p>
----
+
 
 
 <h1 align="center">🛠️ Skills and Tools</h1>
