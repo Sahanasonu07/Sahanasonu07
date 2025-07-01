@@ -1,19 +1,22 @@
+<h1 align="center">Hi there! I'm Sahana Ravi</h1>
+<h3 align="center">Full Stack Java Developer | DevOps Engineer</h3>
 
+<p align="center">
+  🚀 Passionate about developing scalable web applications and automating software delivery using modern DevOps practices.
+</p>
 
+---
+### 🧑‍💻 About Me
 
+<details>
+<summary>Click to Expand</summary>
 
+- 🔭 I’m currently working on improving CI/CD workflows and building backend APIs using Java + Spring Boot.  
+- 🌱 I’m learning more about cloud-native deployments and container orchestration.  
+- 🛠️ I enjoy automating deployments and simplifying release cycles.  
+- 🤝 Open to collaboration on Java, Spring, DevOps, and ReactJS projects.  
 
-
-
-
-
-
-
-
-
-
-
-
+---
 
 
 <h1 align="center">🛠️ Skills and Tools</h1>
