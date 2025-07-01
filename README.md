@@ -23,7 +23,6 @@
   <img src="https://static-00.iconduck.com/assets.00/linux-icon-1719x2048-gi8asnz4.png" alt="linux" width="35" style="display: inline-block; margin: 5px; border-radius: 10px;"/>
   <img src="https://static-00.iconduck.com/assets.00/java-icon-1511x2048-6ikx8301.png" alt="java" width="35" style="display: inline-block; margin: 5px; border-radius: 10px;"/>
   <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="35" style="display: inline-block; margin: 5px; border-radius: 10px;"/>
-  <img src="https://user-images.githubusercontent.com/51070104/268566349-c41e65a5-2ab9-4b54-8cbc-350ab6da746c.png" width="35" style="display: inline-block; margin: 5px; border-radius: 10px;"/>
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/docker_original_logo_icon_146556.png" width="35" style="display: inline-block; margin: 5px; border-radius: 10px;"/>
   <img src="https://static-00.iconduck.com/assets.00/kubernetes-icon-2048x1995-r1q3f8n7.png" width="35" style="display: inline-block; margin: 5px; border-radius: 10px;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" width="35" style="display: inline-block; margin: 5px; border-radius: 10px;"/>
@@ -49,9 +48,6 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS2AdlDW2zV-hyPiVcC7YcDJzMFqhzZFoekw&s" width="35" style="display: inline-block; margin: 5px; border-radius: 10px;"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmJoxiAXVIxedd5WnxL3yepJpACK2lmCSl9w&s" width="35" style="display: inline-block; margin: 5px; border-radius: 10px;"/>
   <img src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-512.png" width="35" style="display: inline-block; margin: 5px; border-radius: 10px;"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl8RUoMU1asZD8HLBVCNymBUahSvkSQjV9hQ&s" width="35" style="display: inline-block; margin: 5px; border-radius: 10px;"/>
-  <img src="https://devopstales.github.io/img/argocd.jpg" width="35" style="display: inline-block; margin: 5px; border-radius: 10px;"/>
-  <img src="https://www.csoonline.com/wp-content/uploads/2024/08/560221-0-88236200-1724824922-owasp-100709974-orig.jpg?quality=50&strip=all" width="35" style="display: inline-block; margin: 5px; border-radius: 10px;"/>
 </p>
 
 ---
