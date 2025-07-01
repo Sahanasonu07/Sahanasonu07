@@ -8,9 +8,6 @@
 ---
 <h1 align="center"></h1> ### 🧑‍💻 About Me </h1>
 
-<details>
-<summary>Click to Expand</summary>
-
 - 🔭 I’m currently working on improving CI/CD workflows and building backend APIs using Java + Spring Boot.  
 - 🌱 I’m learning more about cloud-native deployments and container orchestration.  
 - 🛠️ I enjoy automating deployments and simplifying release cycles.  
