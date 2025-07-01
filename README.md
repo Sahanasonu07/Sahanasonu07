@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! I'm Sahana Ravi</h1>
-<h3 align="center">Full Stack Java Developer | DevOps Engineer</h3>
+<h2 align="center">Full Stack Java Developer | DevOps Engineer</h2>
 
 <p align="center">
   🚀 Passionate about developing scalable web applications and automating software delivery using modern DevOps practices.
