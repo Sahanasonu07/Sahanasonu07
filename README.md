@@ -9,10 +9,10 @@
 <h1 align="center"> ### 🧑‍💻 About Me </h1>
 
 <p>
-- 🔭 I’m currently working on improving CI/CD workflows and building backend APIs using Java + Spring Boot.  
-- 🌱 I’m learning more about cloud-native deployments and container orchestration.  
-- 🛠️ I enjoy automating deployments and simplifying release cycles.  
-- 🤝 Open to collaboration on Java, Spring, DevOps, and ReactJS projects.  
+- 🔭 I’m currently working on improving CI/CD workflows and building backend APIs using Java + Spring Boot. <br> 
+- 🌱 I’m learning more about cloud-native deployments and container orchestration. <br> 
+- 🛠️ I enjoy automating deployments and simplifying release cycles. <br> 
+- 🤝 Open to collaboration on Java, Spring, DevOps, and ReactJS projects. <br>  
 </p>
 ---
 
