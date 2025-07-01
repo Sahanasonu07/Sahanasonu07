@@ -8,7 +8,7 @@
 ---
 <h1 align="center"> ### 🧑‍💻 About Me </h1>
 
-<p>
+<p align="center">
 - 🔭 I’m currently working on improving CI/CD workflows and building backend APIs using Java + Spring Boot. <br> 
 - 🌱 I’m learning more about cloud-native deployments and container orchestration. <br> 
 - 🛠️ I enjoy automating deployments and simplifying release cycles. <br> 
@@ -70,5 +70,22 @@
 
 ## 📫 How to Reach Me
 Feel free to reach out if you want to collaborate on any project or just want to connect!
+<p align="center">
+  <a href="https://www.linkedin.com/in/sahanaravi07">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:sahanakushi08@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" height="30" alt="Gmail" />
+  </a>
+  <a href="https://github.com/sahanasonu07">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub"/>
+  </a>
+  <a href="https://www.instagram.com/sahana_kushi">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" height="30" alt="Instagram"/>
+  </a>
+  <a href="https://hub.docker.com/u/sahanaravi">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker"/>
+  </a>
+</p>
 
 ---
